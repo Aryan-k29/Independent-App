@@ -1,0 +1,16 @@
+h1, h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+input{
+    width: 180px;
+}
+
+button{
+    background-color: orange;
+    color: black;
+}
